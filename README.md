@@ -1,16 +1,8 @@
 <img src="assets/banner.svg" alt="Abdurrahman Akbulut — Founding CTO, Applied AI" width="100%">
 
-Hi, I'm Abdurrahman. I've been building software for 10 years and I currently lead the engineering of an AI-powered business process platform — a system that unifies customer discovery, purchase-intent scoring, omnichannel communication, CRM and operations tracking under a single AI layer. It doesn't only report; it triggers the follow-ups, alerts and automations itself.
+# Hi, I'm Abdurrahman 👋
 
-I own the whole chain of decisions there: system architecture, the AI layer, infrastructure, security standards and the technology roadmap. Multi-tenant microservices, event-driven pipelines, RAG and tool-calling orchestration, and the evaluation harness that keeps the model honest.
-
-Two things I don't negotiate. Security is day one, not a pass before launch. And I don't claim an improvement I can't measure — when I say multilingual AI response accuracy went from 85% to 100%, there's a harness behind that number.
-
-Before this I spent most of a decade as a full-stack developer on e-commerce and CRM products. I wrote them, shipped them, and kept them alive afterwards. Most of my architectural instincts come from that last part.
-
-Currently going deeper on the model side: fine-tuning, domain adaptation and evaluation methodology.
-
-### Stack
+📍 Bursa, Türkiye | 🏢 Torx AI | 🧠 Applied AI & distributed systems
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -27,9 +19,29 @@ Currently going deeper on the model side: fine-tuning, domain adaptation and eva
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-1A1A1A?style=flat-square)
 
-### Projects
+> Building AI systems that don't just report — they act. 10 years shipping, still measuring.
 
-- **Torx AI** — AI-powered business process platform. Lead discovery, intent scoring, omnichannel inbox, CRM and operations in one system. *(private, in production)*
+## Current Work
+
+- 🧠 **[Torx AI](https://torxsoft.com)** - AI-powered business process platform: lead discovery, purchase-intent scoring, omnichannel inbox, CRM and operations in one system
+- 🔀 **Router LLM layer** - Multi-provider orchestration with failover, cost/quality routing and per-tenant model policy
+- 📚 **RAG & tool-calling** - Retrieval over each company's own data, wired to CRM, task and offer workflows
+- 📏 **Evaluation harness** - Scenario-based accuracy measurement against live models; took multilingual reply accuracy from 85% to 100%
+- 🔌 **Channel integrations** - WhatsApp Cloud API, Instagram, Facebook, IMAP/SMTP and web chat under one inbox
+
+## Focus
+
+- 🏗 Multi-tenant architecture, microservices and event-driven pipelines
+- 🔐 Security by default - OWASP-driven design, tenant isolation, auth architecture
+- 🎯 Fine-tuning, domain adaptation and model evaluation methodology
+- 📊 Observability - centralized logging, metrics and traceable AI pipelines
+
+## Previously
+
+- 🛒 E-commerce platforms - Laravel and Next.js storefronts, payment and logistics integrations
+- 📇 CRM products - customer, offer and task management for B2B teams
+- 📱 Cross-platform mobile apps with Flutter
+- ⚙️ Server and deployment ownership - Docker, Ubuntu, CI/CD
 
 ---
 
