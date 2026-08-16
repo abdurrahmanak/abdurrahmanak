@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Abdurrahman Akbulut — Founding CTO, Applied AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="55%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#11151F"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.82" cy="0.15" r="0.7">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8B949E" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <rect x="0" y="0" width="6" height="320" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="72" y="128" fill="#E6EDF3" font-size="58" font-weight="700" letter-spacing="-1">Abdurrahman Akbulut</text>
+
+    <text x="74" y="172" fill="#22D3EE" font-size="21" font-weight="600" letter-spacing="3.4">FOUNDING CTO &#183; APPLIED AI</text>
+
+    <rect x="74" y="198" width="520" height="2" fill="url(#rule)"/>
+
+    <text x="74" y="240" fill="#8B949E" font-size="19">Systems that don't just report &#8212; they act.</text>
+
+    <g font-family="'SFMono-Regular', 'JetBrains Mono', Consolas, monospace" font-size="14.5" fill="#6E7681">
+      <text x="74" y="278">RAG &#183; tool-calling orchestration</text>
+      <text x="356" y="278">multi-tenant microservices</text>
+      <text x="620" y="278">event-driven pipelines</text>
+      <text x="852" y="278">security by default</text>
+    </g>
+
+    <g opacity="0.85">
+      <text x="1208" y="278" text-anchor="end" font-family="'SFMono-Regular', Consolas, monospace" font-size="14.5" fill="#7C5CFF">10 yrs in production</text>
+    </g>
+  </g>
+</svg>
