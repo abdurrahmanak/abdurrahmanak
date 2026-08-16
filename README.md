@@ -1,5 +1,3 @@
-<img src="assets/banner.svg" alt="Abdurrahman Akbulut — Founding CTO, Applied AI" width="100%">
-
 # Hi, I'm Abdurrahman 👋
 
 📍 Bursa, Türkiye | 🏢 Torx AI | 🧠 Applied AI & distributed systems
