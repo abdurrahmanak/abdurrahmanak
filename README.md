@@ -45,4 +45,4 @@
 
 Open to collaboration on applied AI, distributed systems and process automation.
 
-[LinkedIn](https://www.linkedin.com/in/abdurrahman-akbulut) · [torxsoft.com](https://torxsoft.com) · [info@torxsoftmedia.com.tr](mailto:info@torxsoftmedia.com.tr)
+[LinkedIn](https://www.linkedin.com/in/abdurrahman-akbulut) · [Instagram](https://www.instagram.com/abdurrahman.akbulut) · [torxsoft.com](https://torxsoft.com) · [info@torxsoftmedia.com.tr](mailto:info@torxsoftmedia.com.tr)
