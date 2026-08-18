@@ -1,6 +1,6 @@
 # Hi, I'm Abdurrahman 👋
 
-📍 Bursa, Türkiye | 🏢 Torx AI | 🧠 Applied AI & distributed systems
+📍 Türkiye | 🏢 Torx AI | 🧠 Applied AI & distributed systems
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
